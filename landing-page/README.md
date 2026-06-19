@@ -22,9 +22,11 @@ A responsive and modern landing page built as part of my Sprint submission.
 
 ##  Screenshot
 
-![Landing Page](./screenshot1.png)
-![Landing Page](./screenshot2.png)
-![Landing Page](./screenshot3.png)
+## 📸 Screenshot
+
+![Screenshot 1](./screenshot1.png)
+![Screenshot 2](./screenshot2.png)
+![Screenshot 3](./screenshot3.png)
 
 ## Project Structure
 
