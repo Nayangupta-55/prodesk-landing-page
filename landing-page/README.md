@@ -18,7 +18,7 @@ A responsive and modern landing page built as part of my Sprint submission.
 
 ##  Live Demo
 
- https://your-vercel-link.vercel.app
+ https://prodesk-landing-page-tau.vercel.app/
 
 ##  Screenshot
 
